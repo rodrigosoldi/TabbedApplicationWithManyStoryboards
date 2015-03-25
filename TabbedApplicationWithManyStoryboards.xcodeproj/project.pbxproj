@@ -16,7 +16,6 @@
 		AC6DB64E1AC320A1003AFFD1 /* segunda.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DB64D1AC320A1003AFFD1 /* segunda.storyboard */; };
 		AC6DB6501AC320A6003AFFD1 /* terceira.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DB64F1AC320A6003AFFD1 /* terceira.storyboard */; };
 		AC6DB6521AC320AB003AFFD1 /* quarta.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DB6511AC320AB003AFFD1 /* quarta.storyboard */; };
-		AC6DB6561AC3218D003AFFD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC6DB6551AC3218D003AFFD1 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,7 +43,6 @@
 		AC6DB64D1AC320A1003AFFD1 /* segunda.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = segunda.storyboard; sourceTree = "<group>"; };
 		AC6DB64F1AC320A6003AFFD1 /* terceira.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = terceira.storyboard; sourceTree = "<group>"; };
 		AC6DB6511AC320AB003AFFD1 /* quarta.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = quarta.storyboard; sourceTree = "<group>"; };
-		AC6DB6551AC3218D003AFFD1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../TabbedApplicationWithManyStoryboards/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,7 +118,6 @@
 		AC6DB63F1AC3205E003AFFD1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				AC6DB6551AC3218D003AFFD1 /* Main.storyboard */,
 				AC6DB6401AC3205E003AFFD1 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -206,7 +203,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AC6DB6561AC3218D003AFFD1 /* Main.storyboard in Resources */,
 				AC6DB64E1AC320A1003AFFD1 /* segunda.storyboard in Resources */,
 				AC6DB64C1AC3209C003AFFD1 /* primeira.storyboard in Resources */,
 				AC6DB6521AC320AB003AFFD1 /* quarta.storyboard in Resources */,
